@@ -15,9 +15,9 @@ http://tv.tivi12h.net/stream-fpt/htv4.m3u8
 http://tv.tivi12h.net/stream-fpt/htv7.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTV9.jpg" group-title="HTV CHANNEL", HTV9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTV9.png” group-title="HTV CHANNEL", HTV9
 http://tv.tivi12h.net/stream-fpt/htv9.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVTRAVEL.jpg" group-title="HTV CHANNEL", HTV DU LICH
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVTRAVEL.png” group-title="HTV CHANNEL", HTV DU LICH
 http://113.161.32.30/changed/k/htvcdulich_hls.smil/chunklist_b2500000.m3u8
