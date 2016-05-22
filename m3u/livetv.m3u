@@ -1,3 +1,4 @@
-#EXTM3U
 #EXTINF:26 HTV 1
 http://tv.tivi12h.net/stream-fpt/htv1.m3u8
+#EXTINF:26 HTV 1
+http://tv.tivi12h.net/stream-fpt/htv2.m3u8
