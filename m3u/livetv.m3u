@@ -35,3 +35,6 @@ http://tv.tivi12h.net/stream-fpt/htvc-phunu.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVBUY.jpg" group-title="HTV CHANNEL", HTV SHOPPING
 http://113.161.32.30/changed/k/htvcshopping_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVBUY.jpg" group-title=“VTV CAB”, VTV CAB 1
+http://tv.tivi12h.net/stream-fpt/giaitritv.m3u8
+
