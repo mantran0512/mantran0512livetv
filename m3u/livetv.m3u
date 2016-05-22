@@ -80,3 +80,53 @@ http://tv.tivi12h.net/stream-fpt/bongdatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB17.jpg" group-title=“VTV CAB”, VTV CAB 17
 http://tv.tivi12h.net/stream-fpt/yeah1tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/SBTN.jpg" group-title=“HAI NGOAI”, SBTN
+http://69.75.17.10:1935/vietset574tvv/myStream/chunklist_w2005486101.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/VIETMAIL.jpg" group-title=“HAI NGOAI”, VIETMAIL
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/VIETBAY.jpg" group-title=“HAI NGOAI”, VIETBAY
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/TINLANH.jpg" group-title=“HAI NGOAI”, TIN LANH
+http://stream.onworldtv.com/edge/liveorigin/tinlanh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/VIETMY.jpg" group-title=“HAI NGOAI”, VIET MY
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/VIETFACE.jpg" group-title=“HAI NGOAI”, VIETFACE
+http://64.71.129.2:8080/hls/ius_000114.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/LITTERSG.jpg" group-title=“HAI NGOAI”, LITTER SG
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/VSTAR.jpg" group-title=“HAI NGOAI”, VSTAR
+http://livestream.vnvn.net/vstartv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/SGN.jpg" group-title=“HAI NGOAI”, SGN
+http://origin.onworldtv.com:1935/liveorigin/sgn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/KEENGTV.jpg" group-title=“HAI NGOAI”, KEENG TV
+http://125.235.29.16/livetv/keeng.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/VIETSONG.jpg" group-title=“HAI NGOAI”, VIETSONG
+http://68.235.35.243:1935/vietsongmedia/smil:vietsongmedia.smil/chunklist_w1989372860_b478000_slEng.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/SAIGON.jpg" group-title=“HAI NGOAI”, SAI GON
+http://69.75.17.10:1935/vietset574tvv/myStream/chunklist_w27996842.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/VNATV.jpg" group-title=“HAI NGOAI”, VNA TV
+http://origin.onworldtv.com:1935/liveorigin/vna/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/ASIATUDO.jpg" group-title=“HAI NGOAI”, ASIA FREE
+http://69.75.17.10:1935/vbstv/myStream/chunklist_w1741315200.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/VBS.jpg" group-title=“HAI NGOAI”, VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/KVLATV.jpg" group-title=“HAI NGOAI”, KVLA TV
+http://172.112.57.58:1935/kvla/myStream/chunklist_w2073373627.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/BYNTV.jpg" group-title=“HAI NGOAI”, BYN TV
+http://origin.onworldtv.com:1935/liveorigin/byn/chunklist.m3u8
