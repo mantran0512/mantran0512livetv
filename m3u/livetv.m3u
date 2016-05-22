@@ -20,3 +20,18 @@ http://tv.tivi12h.net/stream-fpt/htv9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVTRAVEL.jpg" group-title="HTV CHANNEL", HTV DU LICH
 http://113.161.32.30/changed/k/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVGD.png" group-title="HTV CHANNEL", HTV GIA DINH
+http://tv.tivi12h.net/stream-fpt/htvc-giadinh.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVSPORT.png" group-title="HTV CHANNEL", HTV SPORT
+http://tv.tivi12h.net/stream-fpt/htvc-thethao.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVPHIM.jpg" group-title="HTV CHANNEL", HTV FILM
+http://tv.tivi12h.net/stream-fpt/htvc-phim.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/mantran0512/mantran0512livetv/blob/master/HTVCHANEL/HTVPHUNU.jpg" group-title="HTV CHANNEL", HTV PHU NU
+http://tv.tivi12h.net/stream-fpt/htvc-phunu.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVBUY.jpg" group-title="HTV CHANNEL", HTV SHOPPING
+http://113.161.32.30/changed/k/htvcshopping_hls.smil/chunklist_b2500000.m3u8
+
