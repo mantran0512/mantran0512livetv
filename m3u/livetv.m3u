@@ -130,3 +130,51 @@ http://172.112.57.58:1935/kvla/myStream/chunklist_w2073373627.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HAINGOAI/BYNTV.jpg" group-title=“HAI NGOAI”, BYN TV
 http://origin.onworldtv.com:1935/liveorigin/byn/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC1.jpg" group-title=“VTC CHANNEL”, VTC1
+http://tv.tivi12h.net/stream-fpt/vtc1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC2.jpg" group-title=“VTC CHANNEL”, VTC2
+http://tv.tivi12h.net/stream-fpt/vtc2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC3.jpg" group-title=“VTC CHANNEL”, VTC3
+ttp://tv.tivi12h.net/stream-fpt/vtc3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC4.jpg" group-title=“VTC CHANNEL”, VTC4
+ttp://tv.tivi12h.net/stream-fpt/vtc4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC5.jpg" group-title=“VTC CHANNEL”, VTC5
+http://tv.tivi12h.net/stream-fpt/vtc5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC6.jpg" group-title=“VTC CHANNEL”, VTC6
+http://tv.tivi12h.net/stream-fpt/vtc6.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/TODAY.jpg" group-title=“VTC CHANNEL”, TODAY
+http://tv.tivi12h.net/stream-fpt/vtc7.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC8.jpg" group-title=“VTC CHANNEL”, VTC8
+http://tv.tivi12h.net/stream-fpt/vtc8.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC9.jpg" group-title=“VTC CHANNEL”, VTC9
+http://tv.tivi12h.net/stream-fpt/vtc9.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC10.jpg" group-title=“VTC CHANNEL”, VTC10
+http://tv.tivi12h.net/stream-fpt/vtu10.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC11.jpg" group-title=“VTC CHANNEL”, VTC11
+http://tv.tivi12h.net/stream-fpt/vtu11.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC12.jpg" group-title=“VTC CHANNEL”, VTC14
+http://tv.tivi12h.net/stream-fpt/vtu14.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VTC16.jpg" group-title=“VTC CHANNEL”, VTC16
+http://tv.tivi12h.net/stream-fpt/vtu16.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/ITVHD.jpg" group-title=“VTC CHANNEL”, ITV HD
+http://tv.tivi12h.net/stream-fpt/itvhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/THUANVIET.jpg" group-title=“VTC CHANNEL”, THUAN VIET
+http://tv.tivi12h.net/stream-fpt/htvc-thuanviethd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTC/VMUSIC.jpg" group-title=“VTC CHANNEL”, V MUSIC
+http://tv.tivi12h.net/stream-fpt/channelv.m3u8
