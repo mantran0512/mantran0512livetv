@@ -29,12 +29,54 @@ http://tv.tivi12h.net/stream-fpt/htvc-thethao.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVPHIM.jpg" group-title="HTV CHANNEL", HTV FILM
 http://tv.tivi12h.net/stream-fpt/htvc-phim.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/mantran0512/mantran0512livetv/blob/master/HTVCHANEL/HTVPHUNU.jpg" group-title="HTV CHANNEL", HTV PHU NU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVPHUNU.jpg" group-title="HTV CHANNEL", HTV PHU NU
 http://tv.tivi12h.net/stream-fpt/htvc-phunu.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVBUY.jpg" group-title="HTV CHANNEL", HTV SHOPPING
 http://113.161.32.30/changed/k/htvcshopping_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVBUY.jpg" group-title=“VTV CAB”, VTV CAB 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB1.jpg" group-title=“VTV CAB”, VTV CAB 1
 http://tv.tivi12h.net/stream-fpt/giaitritv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB2.jpg" group-title=“VTV CAB”, VTV CAB 2
+http://tv.tivi12h.net/stream-fpt/phimviet.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB3.jpg" group-title=“VTV CAB”, VTV CAB 3
+http://tv.tivi12h.net/stream-fpt/thethaotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB4.jpg" group-title=“VTV CAB”, VTV CAB 4
+http://tv.tivi12h.net/stream-fpt/kenh17.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB5.jpg" group-title=“VTV CAB”, VTV CAB 5
+http://tv.tivi12h.net/stream-fpt/echanel.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB6.jpg" group-title=“VTV CAB”, VTV CAB 6
+http://tv.tivi12h.net/stream-fpt/haytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB7.jpg" group-title=“VTV CAB”, VTV CAB 7
+http://tv.tivi12h.net/stream-fpt/ddramas.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB8.jpg" group-title=“VTV CAB”, VTV CAB 8
+http://tv.tivi12h.net/stream-fpt/bibi.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB9.jpg" group-title=“VTV CAB”, VTV CAB 9
+http://tv.tivi12h.net/stream-fpt/infotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB10.jpg" group-title=“VTV CAB”, VTV CAB 10
+http://tv.tivi12h.net/stream-fpt/o2tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB12.jpg" group-title=“VTV CAB”, VTV CAB 12
+http://tv.tivi12h.net/stream-fpt/styletv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB13.jpg" group-title=“VTV CAB”, VTV CAB 13
+http://tv.tivi12h.net/stream-fpt/vfamily.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB15.jpg" group-title=“VTV CAB”, VTV CAB 15
+http://tv.tivi12h.net/stream-fpt/investtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB16.jpg" group-title=“VTV CAB”, VTV CAB 16
+http://tv.tivi12h.net/stream-fpt/bongdatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/VTVCAB/CAB17.jpg" group-title=“VTV CAB”, VTV CAB 17
+http://tv.tivi12h.net/stream-fpt/yeah1tv.m3u8
 
