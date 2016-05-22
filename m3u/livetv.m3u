@@ -19,3 +19,16 @@ http://tv.tivi12h.net/stream-fpt/giaitritv.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="VTV CHANNEL", VTV Cab 1
 http://tv.tivi12h.net/stream-fpt/phimviet.m3u8
+
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Kenh Hai Ngoai", SBTN
+http://69.75.17.10:1935/vietset574tvv/myStream/chunklist_w2005486101.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Kenh Hai Ngoai", Viet Mail
+http://64.71.129.2:8080/hls/ius_000131.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Kenh Hai Ngoai", Vietbay
+http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Kenh Hai Ngoai", Vietmy 
+http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
+
