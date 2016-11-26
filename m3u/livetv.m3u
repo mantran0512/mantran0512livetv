@@ -18,7 +18,7 @@ http://livetv1.flix.vn/16b9b54287b2d281d58fd4705cbaa1cd/spsklfl/htv7.360p.stream
 http://livetv1.flix.vn/16b9b54287b2d281d58fd4705cbaa1cd/spsklfl/htv9.360p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVTRAVEL.jpg" group-title="HTV CHANNEL", HTV DU LICH
-http://113.161.32.30/changed/k/htvcdulich_hls.smil/chunklist_b2500000.m3u8
+https://video-sin6-1.xx.fbcdn.net/hvideo-atn2/v/live-md/1697639550552121.m3u8?_nc_rl=AfDi-v8zGYci3910&oh=288b74793a071a73811529c949d92057&oe=583AF14D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mantran0512/mantran0512livetv/master/HTVCHANEL/HTVGD.png" group-title="HTV CHANNEL", HTV GIA DINH
 http://tv.tivi12h.net/stream-fpt/htvc-giadinh.m3u8
